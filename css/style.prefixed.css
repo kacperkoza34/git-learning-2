@@ -1,9 +1,11 @@
 .title {
   font-style: "Signika" , sans-serif;
   padding-bottom: 50px;
+  display: -ms-flexbox;
   display: flex;
 }
 .row {
   padding: 20px 250px 60px 250px;
+  display: -ms-flexbox;
   display: flex;
 }
